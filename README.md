@@ -4,7 +4,7 @@ K-Groove is an innovative app that utilizes Google's Gemini AI to help users eas
 
 ## Project Overview
 
-As K-pop gains worldwide popularity, many people aspire to dance like K-pop idols. However, mastering professional dance moves can be challenging. K-Groove was created to address this challenge.
+K-Groove is an app that leverages Google Gemini AI to analyze users' dance movements and transform them into K-pop style choreography. Users can practice their own K-pop dances while receiving real-time feedback. This app provides K-pop fans with an easy and enjoyable dance learning experience, contributing to greater accessibility to dance.
 
 ## Key Features
 
